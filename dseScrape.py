@@ -5,7 +5,9 @@ Created on Wed Feb 21 01:58:50 2018
 
 @author: yo-my-bard
 
-Scraping the Dar Es Salaam Stock Exchange
+Scraping the Dar Es Salaam Stock Exchange and saving it to a database.
+Exploring means to automate the process, build graphs of companies over time,
+and make data readily accessible.
 """
 
 import pandas as pd
